@@ -1,0 +1,15 @@
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/bin/Debug/net8.0/Domain.dll
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/bin/Debug/net8.0/Domain.pdb
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/sarveshkumar/Practice/NetCore/demo/reactivities/Persistence/obj/Debug/net8.0/ref/Persistence.dll
